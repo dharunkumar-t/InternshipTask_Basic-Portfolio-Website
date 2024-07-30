@@ -2,7 +2,7 @@
 
 ## Description
 
-A minimalist portfolio website inspired by the clean and sleek design. Showcases my projects and provides contact information.
+A minimalist portfolio website with the clean and sleek design. Showcases my projects and provides contact information.
 
 ## Features
 
