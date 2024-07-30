@@ -2,7 +2,7 @@
 
 ## Description
 
-A minimalist portfolio website inspired by the clean and sleek design of Letterboxd. Showcases Dharun Kumar T's projects and provides contact information.
+A minimalist portfolio website inspired by the clean and sleek design. Showcases my projects and provides contact information.
 
 ## Features
 
